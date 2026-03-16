@@ -1,1 +1,0 @@
-import{R as e}from"./index-CMo7wuxx.js";function a(){return e.createElement("section",{className:"panel"},e.createElement("h2",null,"About Page"),e.createElement("p",null,"This demo uses React Router v6 with lazy-loaded routes, a not-found page, and a protected route wrapper."))}export{a as default};
