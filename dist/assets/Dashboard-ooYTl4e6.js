@@ -1,1 +1,0 @@
-import{R as e}from"./index-BPlse3sQ.js";function t(){return e.createElement("section",{className:"panel"},e.createElement("h2",null,"Dashboard (Protected)"),e.createElement("p",null,"You can only see this page when authentication is enabled."))}export{t as default};

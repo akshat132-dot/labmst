@@ -8,6 +8,7 @@ const Home = lazy(() => import('./pages/Home'));
 const About = lazy(() => import('./pages/About'));
 const Dashboard = lazy(() => import('./pages/Dashboard'));
 const NotFound = lazy(() => import('./pages/NotFound'));
+const AccessDenied = lazy(() => import('./pages/AccessDenied'));
 
 function App() {
   const isAuthenticated = false;
@@ -29,6 +30,7 @@ function App() {
                 </ProtectedRoute>
               }
             />
+            <Route path="/access-denied" element={<AccessDenied />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>
