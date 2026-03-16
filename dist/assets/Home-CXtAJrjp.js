@@ -1,0 +1,1 @@
+import{R as e}from"./index-CMo7wuxx.js";function a(){return e.createElement("section",{className:"panel"},e.createElement("h2",null,"Home Page"),e.createElement("p",null,"This is the home view of the single-page app. Navigate with the top links and notice routes update without full reloads."))}export{a as default};

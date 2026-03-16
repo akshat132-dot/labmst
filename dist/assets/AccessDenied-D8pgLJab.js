@@ -1,0 +1,1 @@
+import{R as e,L as t}from"./index-CMo7wuxx.js";function s(){return e.createElement("section",{className:"panel"},e.createElement("h2",null,"Access Denied"),e.createElement("p",null,"You do not have permission to view this page. Please contact your administrator to request access."),e.createElement(t,{to:"/",className:"home-link"},"Go back home"))}export{s as default};

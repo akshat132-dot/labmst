@@ -1,1 +1,0 @@
-import{R as e,L as t}from"./index-BPlse3sQ.js";function n(){return e.createElement("section",{className:"panel"},e.createElement("h2",null,"404 - Page Not Found"),e.createElement("p",null,"The page you requested does not exist."),e.createElement(t,{to:"/",className:"home-link"},"Go back home"))}export{n as default};
